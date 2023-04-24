@@ -1,1 +1,1 @@
-# RepositorioHenry
+Este es un repositorio creado remotamente, desde github, para completar el homework del módulo 2.
